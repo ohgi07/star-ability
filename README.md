@@ -4,7 +4,6 @@
 * star fragment -
 * big star -
 * meteor -
----
 ## Dependencies
 * Kotlin (JDK8)
 * Tap (over 3.2.3) - 3.2.3 미만 버전의 Tap에서는 **작동하지 않습니다.**
