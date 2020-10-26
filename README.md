@@ -1,6 +1,5 @@
 # star-ability
 [Psychics](https://github.com/noonmaru/psychics) 플러그인용 Ability 패키지입니다.
----
 ## 능력 목록
 * star fragment -
 * big star -
